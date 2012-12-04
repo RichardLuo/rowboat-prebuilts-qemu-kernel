@@ -100,7 +100,7 @@ set_basename PROGNAME "$0"
 ###
 
 # Location of prebuilt kernel images relative to Android top-level
-PREBUILT_KERNEL_DIR="prebuilt/android-arm/kernel"
+PREBUILT_KERNEL_DIR="prebuilts/qemu-kernel/arm"
 
 # Look for top-level Android build source tree if not in environment
 
